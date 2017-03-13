@@ -294,3 +294,21 @@
 .bounceOut {
   animation-name: bounceOut;
 }
+
+.dropdown svg{
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.dropdown_hid svg{
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    fill: #b3b3b3;
+}
+.order svg{
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.dropup svg{
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
